@@ -1,7 +1,7 @@
 """
 Demo7-4 -- VERSION NUMBER
 """
-__VERSION__ = "1.2.2"
+__VERSION__ = "1.3-BETA1"
 __DATE__ = "27/02/2023"
 
 def print_version():
